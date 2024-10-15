@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace My_Form_2
 {
-    public partial class FrmTask12 : Form
+    public partial class FrmTask2 : Form
     {
         Point firstPoint;
         Point lastPoint;
         List<GroupBox> boxes;
-        public FrmTask12()
+        public FrmTask2()
         {
             InitializeComponent();
             boxes = new List<GroupBox>();

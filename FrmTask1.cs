@@ -11,13 +11,13 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace My_Form_2
 {
-    public partial class Form2 : Form
+    public partial class FrmTask1 : Form
     {
         int left = 10;
         int right;
         int top = 10;
         int down;
-        public Form2()
+        public FrmTask1()
         {
             InitializeComponent();
             right = Width - 10;

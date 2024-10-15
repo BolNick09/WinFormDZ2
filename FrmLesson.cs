@@ -1,8 +1,8 @@
 namespace My_Form_2
 {
-    public partial class Form1 : Form
+    public partial class FrmLesson : Form
     {
-        public Form1()
+        public FrmLesson()
         {
             InitializeComponent();
         }

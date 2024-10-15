@@ -1,6 +1,6 @@
 ﻿namespace My_Form_2
 {
-    partial class FrmTask12
+    partial class FrmTask2
     {
         /// <summary>
         /// Required designer variable.

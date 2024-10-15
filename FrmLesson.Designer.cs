@@ -1,6 +1,6 @@
 ﻿namespace My_Form_2
 {
-    partial class Form1
+    partial class FrmLesson
     {
         /// <summary>
         ///  Required designer variable.
